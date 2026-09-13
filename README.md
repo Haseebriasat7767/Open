@@ -1,17 +1,16 @@
-# AEGIS Command — Personal Operations OS
+# NEURAL CORE
 
-You are Commander. Six agents work only under your order.
+Voice always goes to **NEURAL**. Five agents work under Neural — never spoken to directly.
 
-| Agent | Duty |
+| Under Neural | Duty |
 | --- | --- |
-| **NEURAL** | AI model bridge (Claude and others) |
-| **SCOUT** | Web: see, watch, handle what you ask |
-| **HUNTER** | Lead generation for the business |
-| **LIAISON** | Clients, social, every platform — drafts until you approve |
-| **ATLAS** | Research, skills, trends, opportunities |
-| **AUDITOR** | Overall performance, budget, scorecards |
+| SCOUT | Web |
+| HUNTER | Leads |
+| LIAISON | Clients & platforms |
+| ATLAS | Research, trends, skills |
+| AUDITOR | Budget & performance |
 
-This HQ is the command picture. Wire real model keys, CRM, and social APIs when you go live. Nothing spends or publishes without you.
+Cinematic command core (inspired by living-desktop assistants, not a copy). Hit **START AI**, allow the mic, speak. Neural answers out loud and dispatches the crew.
 
 ```bash
 npm install
